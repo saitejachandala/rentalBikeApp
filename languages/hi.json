@@ -1,0 +1,292 @@
+{
+    "onboardingScreen": {
+        "screen1Title": "हमारे साम्राज्य में आपका स्वागत है",
+        "screen2Title": "अपने सपनों की कार चुनें",
+        "screen3Title": "अपनी सवारी का आनंद लें",
+        "next": "अगला",
+        "skip": "छोड़ें",
+        "getStarted": "शुरू हो जाओ",
+        "exit": "बाहर निकलने के लिए एक बार फिर से दबाएं"
+    },
+    "signinScreen": {
+        "signin": "साइन इन करें",
+        "optionsTitle": "निम्नलिखित विकल्प के साथ साइन इन करें",
+        "emailIdTitle": "ईमेल आईडी",
+        "emailIdPlaceHolder": "अपना ईमेल आईडी दर्ज करें",
+        "passwordTitle": "पासवर्ड",
+        "passwordPlaceholder":"अपना कूटशब्द भरें",
+        "btnText": "साइन इन करें",
+        "dontAccountInfo": "खाता नहीं है?",
+        "forgotpassword" : "पासवर्ड भूल गए ?",
+        "signup": "साइन अप करें",
+        "exit": "बाहर निकलने के लिए एक बार फिर से दबाएं"
+    },
+    "signupScreen": {
+        "signup": "साइन अप करें",
+        "optionsTitle": "निम्नलिखित विकल्प के साथ साइन अप करें",
+        "nameTitle": "नाम",
+        "namePlaceHolder": "अपना नाम दर्ज करें",
+        "emailIdTitle": "ईमेल आईडी",
+        "emailPlaceHolder": "अपना ईमेल आईडी दर्ज करें",
+        "phoneNumberTitle": "फ़ोन नंबर",
+        "phoneNumberPlaceHolder": "अपना दूरभाष क्रमांक दर्ज करें",
+        "btnText": "साइन अप करें",
+        "passwordTitle":"पासवर्ड",
+        "passwordPlaceholder":"अपना कूटशब्द भरें",
+        "reptPasswordTitle":"पासवर्ड की पुष्टि कीजिये",
+        "reptPasswordPlaceholder":"अपना पासवर्ड फिर से लिखें",
+        "alreadyAccount": "क्या आपके पास पहले से एक खाता मौजूद है?",
+        "signin": "साइन इन करें"
+    },
+    "verificationScreen": {
+        "header": " ओटीपी सत्यापन",
+        "description": "कृपया यहां सत्यापन कोड दर्ज करें, हमने आपको अभी भेजा है",
+        "notReceive": "सत्यापन कोड प्राप्त नहीं हुआ है?",
+        "resend": "पुन: भेजें",
+        "btnText": "सत्यापित करना",
+        "wait": "कृपया प्रतीक्षा करें"
+    },
+    "forgetPasswordScreen": {
+        "forgetPassword": "पासवर्ड सत्यापन भूल जाओ",
+        "forgetTitle": "कृपया यहां सत्यापन कोड दर्ज करें जो हमने अभी आपको आपके पंजीकृत मेल पर भेजा है",
+        "notReceive": "सत्यापन कोड प्राप्त नहीं हुआ?",
+        "resend": "पुन: भेजें",
+        "btnText": "सत्यापित करें",
+        "wait": "कृपया प्रतीक्षा करें",
+        "verificationTitle": "सत्यापन कोड",
+        "verificationPlaceHolder": "अपना सत्यापन कोड दर्ज करें",
+        "passwordTitle":"नया पासवर्ड दर्ज करें",
+        "passwordPlaceholder":"अपना नया पासवर्ड दर्ज करें",
+        "reptPasswordTitle":"नया पासवर्ड दोबारा टाइप करें",
+        "reptPasswordPlaceholder":"अपना नया पासवर्ड दोबारा टाइप करें"
+    },
+    "bottomTabBarScreen": {
+        "home": "घर",
+        "search": "खोज",
+        "favorites": "पसंदीदा",
+        "profile": "प्रोफ़ाइल",
+        "exit": "बाहर निकलने के लिए एक बार फिर से दबाएं"
+    },
+    "homeScreen": {
+        "off": "बंद",
+        "today": "आज",
+        "availableTitle": "आपके पास उपलब्ध",
+        "withDriver": "ड्राइवर के साथ",
+        "seater": "सीटर",
+        "day": "दिन",
+        "addInFav": "पसंदीदा में जोड़ा गया",
+        "removeFromFav": "पसंदीदा से हटाया गया"
+    },
+    "carDetailScreen": {
+        "day": "दिन",
+        "renterTitle": "किराये पर लेनेवाला",
+        "specsTitle": "विशेष विवरण",
+        "maxPower": "अधिकतम शक्ति",
+        "topSpeed": "उच्चतम गति",
+        "motor": "मोटर",
+        "featuresTitle": "विशेषताएँ",
+        "descriptionTitle": "विवरण",
+        "readMore": "अधिक पढ़ें",
+        "showLess": "कम दिखाएं",
+        "mareImagesTitle": "अधिक छवियां",
+        "addInFav": "पसंदीदा में जोड़ा गया",
+        "removeFromFav": "पसंदीदा से हटाया गया",
+        "btnText": "अभी बुक करें"
+    },
+    "pickupAndReturnDetailScreen": {
+        "header": "बुकिंग जानकारी",
+        "withDriver": "ड्राइवर के साथ",
+        "pickupLocTitle": "उठाने की जगह",
+        "returnLocTitle": "वापसी स्थान",
+        "picDateTimeTitle": "पिक अप तिथि और समय",
+        "returnDateTimeTitle": "वापसी की तारीख और समय",
+        "noPickupLoc": "पिकअप स्थान चुनें",
+        "noReturnLoc": "वापसी स्थान चुनें",
+        "noPicDateTime": "पिकअप तिथि और समय",
+        "noReturnDateTime": "वापसी की तारीख और समय चुनें",
+        "btnText": "जारी रखना"
+    },
+    "pickupAndReturnLocationScreen": {
+        "btnText": "आगे बढ़ना",
+        "placeHolder": "स्थान खोजें"
+    },
+    "pickupAndReturnDateAndTimeScreen": {
+        "pickupHeader": "तारीख और समय उठाओ",
+        "returnHeader": "वापसी की तारीख और समय",
+        "pickupTimeTitle": "समय लेने",
+        "pickupTimePlaceHolder": "पिकअप समय चुनें",
+        "returnTimeTitle": "लौटने का समय",
+        "returnTimePlaceHolder": "वापसी का समय चुनें",
+        "btnText": "जारी रखना"
+    },
+    "personalInformationScreen": {
+        "header": "व्यक्तिगत जानकारी",
+        "nameTitle": "नाम",
+        "namePlaceHolder": "अपना नाम दर्ज करें",
+        "emailTitle": "ईमेल आईडी",
+        "emailPlaceHolder": "अपनी ईमेल आईडी दर्ज करें",
+        "phoneTitle": "फ़ोन नंबर",
+        "phonePlaceHolder": "अपना दूरभाष क्रमांक दर्ज करें",
+        "addressTitle": "पता",
+        "addressPlaceHolder": "अपना पता दर्ज करें",
+        "btnText": "जारी रखना"
+    },
+    "uploadDocumentScreen": {
+        "title": "अपना दस्तावेज़ अपलोड करें",
+        "idCardPlaceHolder": "पहचान पत्र अपलोड करें",
+        "licensePlaceHolder": "ड्राइविंग लाइसेंस अपलोड करें",
+        "upload": "डालना",
+        "camera": "कैमरा",
+        "gallery": "गेलरी",
+        "sheetTitle": "अपलोड विकल्प",
+        "btnText": "जारी रखना"
+    },
+    "summaryScreen": {
+        "header": "सारांश",
+        "pickupLocTitle": "उठाने की जगह",
+        "returnLocTitle": "वापसी स्थान",
+        "picDateTimeTitle": "पिक अप तिथि और समय",
+        "returnDateTimeTitle": "वापसी की तारीख और समय",
+        "perDayRent": "प्रति दिन कार का किराया",
+        "today": "कुल",
+        "rent": "किराया",
+        "totalPayment": "कुल भुगतान",
+        "day": "दिन",
+        "btnText": "जारी रखना"
+    },
+    "selectPaymentMethodScreen": {
+        "header": "भुगतान का तरीका चुनें",
+        "paymentMethodTitle": "भुगतान का तरीका",
+        "card": "क्रेडिट कार्ड",
+        "paypal": "पेपैल",
+        "googlePay": "गूगल पे",
+        "cash": "नगद दिया",
+        "creditCardTitle": "क्रेडिट कार्ड",
+        "cardNumberTitle": "कार्ड नंबर",
+        "cardNumberPlaceHolder": "कार्ड नंबर दर्ज करें",
+        "validThruTitle": "के जरिए मान्य",
+        "validThruPlaceHolder": "के माध्यम से मान्य दर्ज करें",
+        "cvvTitle": "सीवीवी",
+        "cvvPlaceHolder": "सीवीवी दर्ज करें",
+        "carHolderNameTitle": "कार्डधारक का नाम",
+        "cardHolderNamePlaceHolder": "कार्ड धारक का नाम दर्ज करें",
+        "btnText": "भुगतान"
+    },
+    "paymentSuccessScreen": {
+        "success": "सफलतापूर्वक बुक किया गया",
+        "description1": "बधाई हो आपने बुक किया है",
+        "description2": "सफलतापूर्वक। अधिक जानकारी के लिए मेरी बुकिंग पर जाएं",
+        "backHome": "घर वापिस जा रहा हूँ"
+    },
+    "notificationScreen": {
+        "header": "अधिसूचना",
+        "today": "आज",
+        "yesterday": "कल",
+        "dismiss": "ख़ारिज",
+        "noNotification": "कोई नई सूचना नहीं"
+    },
+    "searchScreen": {
+        "header": "खोज",
+        "searchPlaceHolder": "अपनी पसंदीदा कार खोजें",
+        "recentSearchTitle": "हाल ही में खोजें",
+        "clearAll": "सभी साफ करें",
+        "bodyTypeTitle": "कार बॉडी टाइप",
+        "filter": "फ़िल्टर",
+        "priceTitle": "कीमत",
+        "priceCategory1": "नीचे से उच्चा",
+        "priceCategory2": "ऊॅंचा से नीचा",
+        "seatingTitle": "बैठने की क्षमता",
+        "seater": "सीटर",
+        "cancel": "रद्द करना",
+        "apply": "आवेदन करना"
+    },
+    "favoritesScreen": {
+        "header": "पसंदीदा",
+        "seater": "सीटर",
+        "day": "दिन",
+        "snackBarMsg": "पसंदीदा . से हटाया गया",
+        "emptyTitle": "खाली पसंदीदा सूची",
+        "emptyDescription": "ऐसा लगता है कि आपकी पसंदीदा सूची में संग्रह करने के लिए कुछ भी नहीं है। आइए अपनी पसंदीदा कार जोड़ें।"
+    },
+    "profileScreen": {
+        "header": "प्रोफ़ाइल",
+        "editProfileOption": "प्रोफ़ाइल संपादित करें",
+        "bookingOption": "मेरी बुकिंग",
+        "notificationOption": "अधिसूचना",
+        "settingOption": "समायोजन",
+        "termsAndConditionOption": "नियम व शर्तें",
+        "customerSupportOption": "ग्राहक सहेयता",
+        "rateUsOption": "हमें रेटिंग दें",
+        "logoutOption": "लॉग आउट",
+        "rating": "कृपया अपने अनुभव को रेट करें",
+        "submit": "प्रस्तुत करना",
+        "skip": "छोड़ें",
+        "logoutSure": "क्या आप लॉग आउट करना चाहते हैं?",
+        "cancel": "रद्द करना",
+        "logout": "लॉग आउट"
+    },
+    "editProfileScreen": {
+        "header": "प्रोफ़ाइल संपादित करें",
+        "change": "परिवर्तन",
+        "nameTitle": "नाम",
+        "emailTitle": "ईमेल आईडी",
+        "phoneNumberTitle": "फ़ोन नंबर",
+        "addressTitle": "पता",
+        "btnText": "अद्यतन",
+        "sheetTitle": "प्रोफ़ाइल फ़ोटो बदलें",
+        "camera": "कैमरा",
+        "gallery": "गेलरी",
+        "remove": "छवि हटाएं"
+    },
+    "bookingsScreen": {
+        "header": "मेरी बुकिंग",
+        "bookingId": "बुकिंग आईडी",
+        "start": "यात्रा प्रारंभ",
+        "end": "यात्रा का अंत",
+        "paid": "भुगतान किया गया",
+        "noBooking": "अभी तक कोई बुकिंग नहीं",
+        "remove": "अपनी बुकिंग से हटाएं"
+    },
+    "settingsScreen": {
+        "header": "समायोजन",
+        "languages": "बोली",
+        "notification": "अधिसूचना"
+    },
+    "languagesScreen": {
+        "header": "बोली",
+        "english": "English",
+        "hindi": "हिन्दी",
+        "indonesian": "bahasa Indonesia",
+        "chienese": "中国人",
+        "arabic": "عربي"
+    },
+    "notificationSettingsScreen": {
+        "header": "अधिसूचना",
+        "pushNotificationTitle": "सर्वर पुश नोटीफिकेशन",
+        "applicationUpdateTitle": "आवेदन अद्यतन",
+        "darkModeTitle": "डार्क मोड"
+    },
+    "termsAndConditionsScreen": {
+        "header": "नियम व शर्तें"
+    },
+    "supportScreen": {
+        "header": "ग्राहक सहेयता",
+        "helpTitle": "हम आपकी कैसे मदद कर सकते हैं?",
+        "phoneNumberTitle": "फ़ोन नंबर",
+        "emailIdTitle": "ईमेल आईडी"
+    },
+    "calender": {
+        "jan": "जनवरी",
+        "feb": "फ़रवरी",
+        "mar": "मार्च",
+        "apr": "अप्रैल",
+        "may": "मई",
+        "jun": "जून",
+        "jul": "जुलाई",
+        "aug": "अगस्त",
+        "sep": "सितम्बर",
+        "oct": "अक्टूबर",
+        "nov": "नवम्बर",
+        "dec": "दिसम्बर"
+    }
+}

@@ -1,0 +1,287 @@
+{
+    "onboardingScreen": {
+        "screen1Title": "Selamat datang di kerajaan kami",
+        "screen2Title": "Pilih mobil impian Anda",
+        "screen3Title": "Nikmati perjalanan Anda",
+        "next": "Lanjut",
+        "skip": "Melewati",
+        "getStarted": "Memulai",
+        "exit": "Tekan kembali sekali lagi untuk keluar"
+    },
+    "signinScreen": {
+        "signin": "Masuk",
+        "optionsTitle": "Masuk dengan opsi berikut",
+        "emailIdTitle": "nomor email",
+        "emailIdPlaceHolder": "Masukkan ID Email Anda",
+        "passwordTitle": "Kata sandi",
+        "passwordPlaceholder":"Masukkan kata sandi Anda",
+        "btnText": "Masuk",
+        "dontAccountInfo": "Tidak punya akun?",
+        "signup": "Daftar",
+        "exit": "Tekan kembali sekali lagi untuk keluar"
+    },
+    "signupScreen": {
+        "signup": "Daftar",
+        "optionsTitle": "Daftar dengan opsi berikut",
+        "nameTitle": "Nama",
+        "namePlaceHolder": "Masukkan nama Anda",
+        "emailIdTitle": "ID Email",
+        "emailPlaceHolder": "Masukkan ID email Anda",
+        "phoneNumberTitle": "Nomor telepon",
+        "phoneNumberPlaceHolder": "Masukkan nomor telepon Anda",
+        "btnText": "Daftar",
+        "alreadyAccount": "Sudah memiliki akun?",
+        "signin": "Masuk"
+    },
+    "verificationScreen": {
+        "header": "Verifikasi OTP",
+        "description": "Silakan masukkan kode verifikasi di sini yang baru saja kami kirimkan kepada Anda",
+        "notReceive": "Belum menerima kode verifikasi?",
+        "resend": "Kirim ulang",
+        "btnText": "Memeriksa",
+        "wait": "Mohon tunggu"
+    },
+    "forgetPasswordScreen": {
+        "forgetPassword": "Verifikasi Lupa Kata Sandi",
+        "forgetTitle": "Silakan masukkan kode verifikasi di sini yang baru saja kami kirimkan kepada Anda melalui email terdaftar Anda",
+        "notReceive": "Belum menerima kode verifikasi?",
+        "resend": "Kirim ulang",
+        "btnText": "Memeriksa",
+        "wait": "Harap tunggu",
+        "verificationTitle": "Kode verifikasi",
+        "verificationPlaceHolder": "Masukkan Kode verifikasi Anda",
+        "passwordTitle":"Masukan kata sandi baru",
+        "passwordPlaceholder":"Masukkan Kata Sandi Baru Anda",
+        "reptPasswordTitle":"Ketik ulang Kata Sandi Baru",
+        "reptPasswordPlaceholder":"Ketik Ulang Kata Sandi Baru Anda"
+    },
+    "bottomTabBarScreen": {
+        "home": "Rumah",
+        "search": "Mencari",
+        "favorites": "Favorit",
+        "profile": "Profil",
+        "exit": "Tekan kembali sekali lagi untuk keluar"
+    },
+    "homeScreen": {
+        "off": "MATI",
+        "today": "HARI INI",
+        "availableTitle": "Tersedia Di Dekat Anda",
+        "withDriver": "Dengan sopir",
+        "seater": "tempat duduk",
+        "day": "hari",
+        "addInFav": "Ditambahkan ke Favorit",
+        "removeFromFav": "Dihapus Dari Favorit"
+    },
+    "carDetailScreen": {
+        "day": "hari",
+        "renterTitle": "Penyewa",
+        "specsTitle": "spesifikasi",
+        "maxPower": "kekuatan penuh",
+        "topSpeed": "Kecepatan tertinggi",
+        "motor": "Motor",
+        "featuresTitle": "Fitur",
+        "descriptionTitle": "Keterangan",
+        "readMore": "Baca lebih banyak",
+        "showLess": "Tampilkan lebih sedikit",
+        "mareImagesTitle": "Lebih banyak gambar",
+        "addInFav": "Ditambahkan ke Favorit",
+        "removeFromFav": "Dihapus Dari Favorit",
+        "btnText": "Pesan sekarang"
+    },
+    "pickupAndReturnDetailScreen": {
+        "header": "Informasi pemesanan",
+        "withDriver": "Dengan sopir",
+        "pickupLocTitle": "Lokasi penjemputan",
+        "returnLocTitle": "Lokasi kembali",
+        "picDateTimeTitle": "Tanggal & Waktu Pengambilan",
+        "returnDateTimeTitle": "Tanggal & Waktu kembali",
+        "noPickupLoc": "Pilih lokasi penjemputan",
+        "noReturnLoc": "Pilih lokasi Kembali",
+        "noPicDateTime": "Tanggal & waktu pengambilan",
+        "noReturnDateTime": "Pilih tanggal & waktu pengembalian",
+        "btnText": "Melanjutkan"
+    },
+    "pickupAndReturnLocationScreen": {
+        "btnText": "Melanjutkan",
+        "placeHolder": "Cari lokasi"
+    },
+    "pickupAndReturnDateAndTimeScreen": {
+        "pickupHeader": "Tanggal dan waktu pengambilan",
+        "returnHeader": "Tanggal dan waktu kembali",
+        "pickupTimeTitle": "Waktu penjemputan",
+        "pickupTimePlaceHolder": "Pilih waktu penjemputan",
+        "returnTimeTitle": "Waktu kembali",
+        "returnTimePlaceHolder": "Pilih waktu kembali",
+        "btnText": "Melanjutkan"
+    },
+    "personalInformationScreen": {
+        "header": "Informasi pribadi",
+        "nameTitle": "Nama",
+        "namePlaceHolder": "Masukkan nama Anda",
+        "emailTitle": "ID Email",
+        "emailPlaceHolder": "Masukkan id email Anda",
+        "phoneTitle": "Nomor telepon",
+        "phonePlaceHolder": "Masukkan nomor telepon Anda",
+        "addressTitle": "Alamat",
+        "addressPlaceHolder": "Masukkan Alamat Anda",
+        "btnText": "Melanjutkan"
+    },
+    "uploadDocumentScreen": {
+        "title": "Unggah dokumen Anda",
+        "idCardPlaceHolder": "Unggah kartu identitas",
+        "licensePlaceHolder": "Unggah surat izin mengemudi",
+        "upload": "Mengunggah",
+        "camera": "Kamera",
+        "gallery": "Galeri",
+        "sheetTitle": "Opsi Unggah",
+        "btnText": "Melanjutkan"
+    },
+    "summaryScreen": {
+        "header": "Ringkasan",
+        "pickupLocTitle": "Lokasi penjemputan",
+        "returnLocTitle": "Lokasi kembali",
+        "picDateTimeTitle": "Tanggal & Waktu Pengambilan",
+        "returnDateTimeTitle": "Tanggal & Waktu kembali",
+        "perDayRent": "Sewa mobil per hari",
+        "today": "Total",
+        "rent": "menyewa",
+        "totalPayment": "Total pembayaran",
+        "day": "hari",
+        "btnText": "Melanjutkan"
+    },
+    "selectPaymentMethodScreen": {
+        "header": "Pilih metode pembayaran",
+        "paymentMethodTitle": "Cara Pembayaran",
+        "card": "Kartu kredit",
+        "paypal": "PayPal",
+        "googlePay": "Google membayar",
+        "cash": "Dibayar tunai",
+        "creditCardTitle": "Kartu kredit",
+        "cardNumberTitle": "Nomor kartu",
+        "cardNumberPlaceHolder": "Masukkan nomor kartu",
+        "validThruTitle": "Berlaku sampai",
+        "validThruPlaceHolder": "Masukkan valid melalui",
+        "cvvTitle": "CVV",
+        "cvvPlaceHolder": "Masukkan Cvv",
+        "carHolderNameTitle": "Nama pemegang kartu",
+        "cardHolderNamePlaceHolder": "Masukkan nama pemegang kartu",
+        "btnText": "Pembayaran"
+    },
+    "paymentSuccessScreen": {
+        "success": "berhasil dipesan",
+        "description1": "Selamat Anda telah memesan",
+        "description2": "Berhasil. pergi ke pemesanan saya untuk lebih jelasnya",
+        "backHome": "Kembali ke rumah"
+    },
+    "notificationScreen": {
+        "header": "Pemberitahuan",
+        "today": "Hari ini",
+        "yesterday": "Kemarin",
+        "dismiss": "dibubarkan",
+        "noNotification": "Tidak ada pemberitahuan baru"
+    },
+    "searchScreen": {
+        "header": "Mencari",
+        "searchPlaceHolder": "Cari mobil favorit Anda",
+        "recentSearchTitle": "Pencarian baru-baru ini",
+        "clearAll": "Bersihkan semua",
+        "bodyTypeTitle": "Tipe Bodi Mobil",
+        "filter": "Saring",
+        "priceTitle": "Harga",
+        "priceCategory1": "Rendah ke tinggi",
+        "priceCategory2": "Tinggi sampai rendah",
+        "seatingTitle": "Kapasitas tempat duduk",
+        "seater": "tempat duduk",
+        "cancel": "Membatalkan",
+        "apply": "Berlaku"
+    },
+    "favoritesScreen": {
+        "header": "Favorit",
+        "seater": "tempat duduk",
+        "day": "hari",
+        "snackBarMsg": "Dihapus dari Favorit",
+        "emptyTitle": "Daftar Favorit kosong",
+        "emptyDescription": "Rasanya seperti tidak ada yang bisa dikumpulkan dalam daftar favorit Anda. ayo tambah mobil kesayanganmu."
+    },
+    "profileScreen": {
+        "header": "Profil",
+        "editProfileOption": "Sunting profil",
+        "bookingOption": "Pemesanan saya",
+        "notificationOption": "Pemberitahuan",
+        "settingOption": "Pengaturan",
+        "termsAndConditionOption": "Syarat dan ketentuan",
+        "customerSupportOption": "Dukungan pelanggan",
+        "rateUsOption": "Nilai kami",
+        "logoutOption": "Keluar",
+        "rating": "Silakan menilai pengalaman Anda",
+        "submit": "Kirim",
+        "skip": "Melewati",
+        "logoutSure": "Apakah Anda yakin ingin keluar?",
+        "cancel": "Membatalkan",
+        "logout": "Keluar"
+    },
+    "editProfileScreen": {
+        "header": "Sunting profil",
+        "change": "Mengubah",
+        "nameTitle": "Nama",
+        "emailTitle": "ID Email",
+        "phoneNumberTitle": "Nomor telepon",
+        "addressTitle": "Alamat",
+        "btnText": "Memperbarui",
+        "sheetTitle": "Ubah Foto profil",
+        "camera": "Kamera",
+        "gallery": "Galeri",
+        "remove": "Hapus gambar"
+    },
+    "bookingsScreen": {
+        "header": "Pemesanan saya",
+        "bookingId": "ID pemesanan",
+        "start": "Perjalanan dimulai",
+        "end": "Perjalanan berakhir",
+        "paid": "Dibayar",
+        "noBooking": "Belum ada pemesanan",
+        "remove": "Hapus dari pemesanan Anda"
+    },
+    "settingsScreen": {
+        "header": "Pengaturan",
+        "languages": "Bahasa",
+        "notification": "Pemberitahuan"
+    },
+    "languagesScreen": {
+        "header": "Bahasa",
+        "english": "English",
+        "hindi": "हिन्दी",
+        "indonesian": "bahasa Indonesia",
+        "chienese": "中国人",
+        "arabic": "عربي"
+    },
+    "notificationSettingsScreen": {
+        "header": "Pemberitahuan",
+        "pushNotificationTitle": "Pemberitahuan push",
+        "applicationUpdateTitle": "Pembaruan aplikasi",
+        "darkModeTitle": "Mode gelap"
+    },
+    "termsAndConditionsScreen": {
+        "header": "Syarat dan ketentuan"
+    },
+    "supportScreen": {
+        "header": "Dukungan pelanggan",
+        "helpTitle": "Bagaimana kami dapat membantu Anda?",
+        "phoneNumberTitle": "Nomor telepon",
+        "emailIdTitle": "ID email"
+    },
+    "calender": {
+        "jan": "Jan",
+        "feb": "Februari",
+        "mar": "Merusak",
+        "apr": "April",
+        "may": "Mungkin",
+        "jun": "Juni",
+        "jul": "Juli",
+        "aug": "Agustus",
+        "sep": "Sep",
+        "oct": "Oktober",
+        "nov": "November",
+        "dec": "Desember"
+    }
+}
